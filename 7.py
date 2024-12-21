@@ -18,3 +18,4 @@ for b in a:
 
   for value in b:
       print(value)
+'''выводит генератор'''
